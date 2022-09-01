@@ -1,5 +1,6 @@
 from math import pi
 
-Circleradius=(input)
+Circleradius=int(input("The radius of the circle: "))
 
-Area=Circleradius*pi
+print ("Area of the circle is: " + str(pi * Circleradius**2))
+
