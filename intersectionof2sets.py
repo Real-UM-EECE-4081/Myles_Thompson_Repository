@@ -1,5 +1,5 @@
-setx = set(["green", "blue"])
-sety = set(["blue", "yellow"])
+setx = set(["ging", "bing,5"])
+sety = set(["bong", "bing,5"])
 print("Original set elements:")
 print(setx)
 print(sety)
