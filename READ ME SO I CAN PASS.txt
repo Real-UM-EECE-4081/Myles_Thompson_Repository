@@ -1,0 +1,4 @@
+just type this into the terminal. cd to the file and then install the requirements tet file
+
+cd chat
+pip install -r requirements.txt
